@@ -2,5 +2,5 @@
 
 <!-- WorkBee -->
 
-Detailed project documentation is available inside the folder.
+Detailed project WorkBee documentation
 
