@@ -119,7 +119,7 @@ Secure payment handling for completed tasks.
 
 Features:
 
-* Payment processing using Stripe
+* Payment processing using Razorpay
 * Work payment confirmation
 * Transaction history
 * Worker payout logic
