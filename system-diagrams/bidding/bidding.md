@@ -2,6 +2,8 @@
 ## bidding
 ## Overview
 
+<img src="./images//bidding.HLD.png" alt="Bidding System" width="900">
+
 The bidding system allows a worker and a client to negotiate the final price of a work through the chat system.
 
 Instead of creating separate REST APIs for bidding, the entire feature is implemented using Socket.IO because every action must be reflected instantly to both users.
